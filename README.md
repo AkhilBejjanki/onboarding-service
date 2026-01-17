@@ -9,7 +9,7 @@ This is a backend service built with Node.js, Express, PostgreSQL, and TypeORM. 
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/AkhilBejjanki/onboarding-service>
+git clone https://github.com/AkhilBejjanki/onboarding-service
 cd onboarding-service
 ```
 
@@ -133,4 +133,4 @@ The application includes a scheduled job that runs every 10 minutes to check for
 
 ## Testing
 
-The application has been tested using Swagger UI for API endpoints. Database operations have been verified through PostgreSQL queries. Edge cases such as invalid inputs, invalid status transitions, and duplicate entries have been handled.
+The application has been tested using Swagger UI for API endpoints. Database operations have been verified through PostgreSQL queries.
